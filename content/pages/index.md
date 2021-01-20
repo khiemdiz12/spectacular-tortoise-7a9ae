@@ -57,4 +57,5 @@ sections:
       title: Discover
       url: /store
       style: secondary
+page_css_class: ''
 ---
