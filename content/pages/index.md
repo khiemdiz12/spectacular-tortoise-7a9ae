@@ -1,6 +1,6 @@
 ---
 layout: home
-title: TechLegion
+title: Tech Legion
 white_header: true
 sections:
   - type: hero_section
